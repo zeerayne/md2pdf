@@ -1,4 +1,3 @@
-
 services:
   md2pdf:
     build:
