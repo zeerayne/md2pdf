@@ -1,7 +1,0 @@
-services:
-  md2pdf:
-    build:
-      context: ./
-      dockerfile: Dockerfile
-    ports:
-      - "8080:80"
